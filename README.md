@@ -20,7 +20,7 @@ I'm Ilhan, a passionate web developer with a focus on back-end development. I lo
 
 - LinkedIn: [Ilhanalim](https://www.linkedin.com/in/ilhan-alim-74a627266/)
 - Email: ilhanalim46@gmail.com
-- Instagram: @ilhanalim_
+- Instagram: [@ilhanalim](https://www.instagram.com/ilhanalim_/)
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Let's connect and create something awesome together!
 
